@@ -267,7 +267,7 @@ def namepsw():
     animation("\033[1;37m (\u001b[36m>\033[1;37m) THANKS BRO-😂️ ")   
     line()    
     xxz = input('\033[1;37m (\u001b[36m>\033[1;37m) PRESS ENTER TO BACK')   
-    os.system("python SAURAV.py")    
+    os.system("python P3MBAEXE.py")    
     exit()    
 try:
     with open('data/name.xml', 'r') as name_file:
