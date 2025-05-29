@@ -1,4 +1,4 @@
-#-----------SAURAV----------#
+#-----------P3MBA----------#
 
 print("\033[1;37m (\u001b[36m>\033[1;37m) Checking for updates\033[1;37m")
 
@@ -177,7 +177,7 @@ def clear():
 def back():
     menu()
 def contact():
-    os.system('xdg-open https://www.facebook.com/saurav.fr')
+    os.system('xdg-open https://www.facebook.com/PEMBAEXE')
     back()
 def line():
     print('\033[1;37m——————————————————————————————————————\x1b[1;97m')
@@ -193,9 +193,9 @@ logo =f"""
 \033[1;37m——————————————————————————————————————\x1b[1;97m
 -fuwk3rrr saura'v herrr'w - laud3y !-
 \033[1;37m——————————————————————————————————————\x1b[1;97m
-\033[1;37m(\u001b[36m>\033[1;37m) OWNER  : SAURAV DADA
-\033[1;37m(\u001b[36m>\033[1;37m) GITHUB : Saureyy 
-\033[1;37m(\u001b[36m>\033[1;37m) TOOL   : PUBLIC × FILE CLONING
+\033[1;37m(\u001b[36m>\033[1;37m) OWNER  : P3MBA-EXE
+\033[1;37m(\u001b[36m>\033[1;37m) GITHUB : PEMBA_EXE 
+\033[1;37m(\u001b[36m>\033[1;37m) TOOL   : FACEBOOK IDS HACKING
 \033[1;37m——————————————————————————————————————\x1b[1;97m"""   
 #---------------------[UID]---------------------#
 def saurabh(id):
@@ -258,9 +258,9 @@ def namepsw():
         with open("data/gf.xml", "r") as password_file_obj:
             upass = password_file_obj.readline().strip()
     else:
-        print(" (\u001b[36m>\033[1;37m) ENTER YOUR GIRLFRND'S NAME")
+        print(" (\u001b[36m>\033[1;37m) ENTER YOUR GIRLFRND'S NAME AND NUMBER")
         line()
-        upass = input(" (\u001b[36m>\033[1;37m) ENTER YOUR GF NAME : ")
+        upass = input(" (\u001b[36m>\033[1;37m) ENTER YOUR GF NAME AND NUMBER: ")
         line()
         with open("data/gf.xml", "w") as password_file_obj:
             password_file_obj.write(upass)
