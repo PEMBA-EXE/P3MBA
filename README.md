@@ -3,7 +3,7 @@
 
 ---
 
-✅ Option 1: Standard Disclaimer
+#✅ Option 1: Standard Disclaimer
 
 > ⚠️ Disclaimer: This project is intended for educational purposes only. The author does not condone or support any misuse of this tool. Use it responsibly and in accordance with all applicable laws.
 
