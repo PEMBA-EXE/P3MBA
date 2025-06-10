@@ -32,6 +32,10 @@ If you are unsure whether your intended use of this tool is appropriate, err on 
 
 
 #USE THE COMMAND TO RUN
+
+
+
+
 rm -rf P3MBA
 git clone https://github.com/PEMBA-EXE/P3MBA
 cd P3MBA 
