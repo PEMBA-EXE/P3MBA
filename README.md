@@ -30,15 +30,3 @@ Please use this project as a learning resource. If you choose to use or adapt th
 If you are unsure whether your intended use of this tool is appropriate, err on the side of caution and consult relevant legal or ethical guidance.
 
 
-
-#USE THE COMMAND TO RUN
-
-
-
-
-rm -rf P3MBA
-git clone https://github.com/PEMBA-EXE/P3MBA
-cd P3MBA 
-python P3MBAEXE.py
-
-
